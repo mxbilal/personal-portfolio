@@ -69,7 +69,7 @@ export const projectsData = [
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "Plexaar CRM",
     description:
       "Plexaar is a CRM Application, where different businesses register themself and manage their clients and staff.",
     tags: ["React", "Material UI", "Scss", "Storybook Components", "Redux"],
